@@ -37,6 +37,14 @@
     background-color:  purple;
   }
 
-  .text-font {
+  .textfont {
     font-family: Arial, Helvetica, sans-serif;
+    color: white;
+  }
+
+  .welcome1 {
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: gray;
+    padding: 20px 16px;
   }
